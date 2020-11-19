@@ -1,11 +1,11 @@
 init		项目初始化
-clone		从远程克隆一个项目到本地
+clone	*	从远程克隆一个项目到本地
 status		查看当前库的状态
 reset		将代码重置
 add			将文件添加到暂存区
 commit		将修改提交到本地仓库
-push		将远程仓库的更新内容拉取到本地仓库
-branch		分支管理
+push	*	将远程仓库的更新内容拉取到本地仓库
+branch	*	分支管理
 checkout	切换分支/代码还原.代码回滚
 log			查看提交历史
 remote		远程管理
